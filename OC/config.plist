@@ -895,21 +895,21 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02041300GU00008C</string>
+			<string></string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>gPpban9t</data>
+			<data></data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>MacBookPro16,4</string>
+			<string></string>
 			<key>SystemSerialNumber</key>
-			<string>C02DJLZ6MD6T</string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>7FE8C825-54E8-4787-956A-80FA5B6A7F6D</string>
+			<string></string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
